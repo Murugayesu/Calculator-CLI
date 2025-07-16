@@ -55,11 +55,3 @@ Feel free to fork this project and submit pull requests for any improvements!
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## Future Enhancements
-
-- [ ] Support for more advanced mathematical functions (sin, cos, tan, log, etc.)
-- [ ] Memory functions (store, recall, clear)
-- [ ] Calculation history
-- [ ] Support for complex numbers
-- [ ] GUI version using tkinter
